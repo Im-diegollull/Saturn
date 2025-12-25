@@ -1,8 +1,8 @@
-# 🪐 Saturn AI
+#  Saturn AI
 
-Un chat de inteligencia artificial con diseño inspirado en Saturno, construido con React y la API de Gemini 2.0.
+Un chat de inteligencia artificial con diseño inspirado en Saturno, construido con Express.js, React y la API de Gemini 2.0/Claude/OpenIA.
 
-## ⚡ Inicio Rápido
+##  Iniciar
 
 ### 1. Clonar el repositorio
 ```bash
@@ -49,7 +49,7 @@ npm run dev
 http://localhost:5173
 ```
 
-## 🛠️ Stack
+## Stack
 
 - **Frontend:** React + Vite + Tailwind CSS
 - **Backend:** Express.js + Gemini 2.0 Flash
